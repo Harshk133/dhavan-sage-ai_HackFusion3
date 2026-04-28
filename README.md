@@ -43,3 +43,6 @@ When you say *"I need 20 pills of Paracetamol"*:
 3. It invokes `check_prescription` based on `directives/prescription_validation.md`.
 4. If BOTH pass, it invokes `execute_order`, which writes to MongoDB.
 5. The CRON job in `predict_refills.py` continuously scans the new DB state to forecast future shortages.
+
+
+Give a Star 🌟 to this repository! 
