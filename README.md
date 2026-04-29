@@ -45,4 +45,4 @@ When you say *"I need 20 pills of Paracetamol"*:
 5. The CRON job in `predict_refills.py` continuously scans the new DB state to forecast future shortages.
 
 
-Give a Star 🌟 to this repository! 
+Give a Star 🌟 to this repository!!
